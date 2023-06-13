@@ -51,6 +51,7 @@ nav a {
 }
 
 main {
+    
     display: flex;
     margin: 3px;
     flex: 20 1 500px;
@@ -63,6 +64,11 @@ aside {
     margin: 3px;
     flex: 1 1 200px;
     background: #a1a1a1;
+}
+
+div#bloco {
+    
+    display: grid;
 }
 
 footer {
